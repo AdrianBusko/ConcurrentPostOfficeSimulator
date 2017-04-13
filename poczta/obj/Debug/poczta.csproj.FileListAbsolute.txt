@@ -1,0 +1,12 @@
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\poczta\poczta\bin\Debug\poczta.exe.config
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\poczta\poczta\obj\Debug\poczta.csprojResolveAssemblyReference.cache
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\poczta\poczta\bin\Debug\poczta.exe
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\poczta\poczta\bin\Debug\poczta.pdb
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\poczta\poczta\obj\Debug\poczta.exe
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\poczta\poczta\obj\Debug\poczta.pdb
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\pocztaKONIEC\poczta\bin\Debug\poczta.exe.config
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\pocztaKONIEC\poczta\obj\Debug\poczta.pdb
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\pocztaKONIEC\poczta\bin\Debug\poczta.exe
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\pocztaKONIEC\poczta\bin\Debug\poczta.pdb
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\pocztaKONIEC\poczta\obj\Debug\poczta.csprojResolveAssemblyReference.cache
+E:\Studia\Semestr_4\C#_projekty\Wspolbiegi\Kamil\pocztaKONIEC\poczta\obj\Debug\poczta.exe
